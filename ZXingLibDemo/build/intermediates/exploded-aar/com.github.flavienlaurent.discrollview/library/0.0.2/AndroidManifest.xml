@@ -1,0 +1,5 @@
+<!-- From: file:/E:/dev/src/perso/discrollview/lib/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="0.0.2" package="com.flavienlaurent.discrollview.lib">
+
+    <uses-sdk android:maxSdkVersion="19" android:minSdkVersion="14" android:targetSdkVersion="19"/>
+
+</manifest>

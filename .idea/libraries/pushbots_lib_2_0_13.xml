@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pushbots-lib-2.0.13">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ZXingLibDemo/build/intermediates/exploded-aar/com.pushbots/pushbots-lib/2.0.13/res" />
+      <root url="jar://$PROJECT_DIR$/ZXingLibDemo/build/intermediates/exploded-aar/com.pushbots/pushbots-lib/2.0.13/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pushbots/pushbots-lib/2.0.13/6ec026100c2332e93e18fecd325be5f348e032d5/pushbots-lib-2.0.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
